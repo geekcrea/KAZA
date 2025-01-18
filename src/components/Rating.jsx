@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react';
 import '../../style/Rating.scss';
 const Rating = ({ rating }) => {
 	const [stars, setStars] = useState([emptyStar]);
-	// Je prend mon rating, si rationg = 1, je rempli 1 étoile sur les 5
+	
 
 	useEffect(() => {
 		let newStar = [];

@@ -1,8 +1,36 @@
-# React + Vite
+Kasa - Plateforme de Location d'Appartements
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ 📚 A propos du projet:
 
-Currently, two official plugins are available:
+Kasa est une entreprise spécialisée dans la location d'appartements entre particuliers depuis plus de 10 ans. Avec plus de 500 annonces publiées quotidiennement, elle s'est imposée comme l'un des leaders du marché en France. Pour rester compétitive et offrir une expérience utilisateur moderne, Kasa a entrepris une refonte complète de sa plateforme web.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Le site actuel, développé en ASP.NET, sera remplacé par une stack technologique moderne avec React .
+
+
+🚀 Objectifs de la nouvelle plateforme :
+
+
+Modernisation du front-end
+
+Migration vers une architecture React pour une meilleure maintenabilité et performance.
+
+Mise en œuvre de composants réutilisables et respect des standards modernes de développement.
+
+Amélioration de l'expérience utilisateur
+
+Création d'une interface intuitive et attrayante.
+
+Intégration des maquettes Figma pour garantir un design responsive adapté à tous les appareils.
+
+Satisfaction des besoins fonctionnels
+
+Développement d'une galerie photo interactive.
+
+Mise en place d'un système de collapses pour structurer l'information de manière claire.
+
+
+
+Caractéristiques principales:
+
+
+Gestion des annonces : Un affichage optimisé des annonces avec une navigation fluide et des visuels de qualité.

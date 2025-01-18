@@ -1,0 +1,34 @@
+.tag-container {
+	margin-bottom: 15px;
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+	height: 26px;
+}
+.tag-fill {
+	background-color: #ff6060;
+	color: #fff;
+	height: 100%;
+	max-width: auto;
+	display: flex;
+	border-radius: 10px;
+
+	.tag {
+		font-size: 14px;
+		margin: 0 30px;
+		display: flex;
+		align-items: center;
+	}
+}
+@media screen and (max-width: 375px) {
+	.tag-container {
+		gap: 15px;
+		margin: 0px 145px 18px 0px;
+	}
+	.tag-fill {
+		.tag {
+			font-size: 10px;
+			margin: 0 10px;
+		}
+	}
+}

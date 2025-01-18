@@ -1,0 +1,37 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px 50px 20px 50px;
+}
+
+.header img {
+	width: 100px;
+}
+
+.link {
+	text-decoration: none;
+	margin-left: 25px;
+	justify-content: space-around;
+	color: inherit;
+}
+.link:hover {
+	text-decoration: underline;
+}
+@media screen and (max-width: 768px) {
+	.header img {
+		height: 47x;
+		width: 145px;
+	}
+
+	.link {
+		gap: 5px;
+		font-size: 10px;
+		text-transform: uppercase;
+	}
+}
+@media screen and (max-width: 375px) {
+	.header {
+		padding: 20px;
+	}
+}

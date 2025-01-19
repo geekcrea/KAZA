@@ -20,6 +20,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# Ne pas ignorer le dossier dist uniquement pour le déploiement
-!dist/

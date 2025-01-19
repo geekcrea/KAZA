@@ -21,7 +21,7 @@
 @media screen and (max-width: 768px) {
 	.header img {
 		height: 47x;
-		width: 145px;
+		width: 100px;
 	}
 
 	.link {
@@ -31,6 +31,11 @@
 	}
 }
 @media screen and (max-width: 375px) {
+	.header img {
+		height: 47x;
+		width: 80px;
+	}
+
 	.header {
 		padding: 20px;
 	}

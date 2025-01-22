@@ -20,7 +20,7 @@ const About = () => {
 			id: '3',
 			title: 'Service',
 			content:
-				'La bienveillance fait partie des valeurs fondatrices de Kasa. Tout comportement discriminatoire ou de perturbation du voisinage entraînera une exclusion de notre plateforme.',
+				'La qualité du service est au cœur de notre engagement chez Kaza. Nous veillons à ce que chaque interaction, que ce soit avec nos hôtes ou nos locataires, soit empreinte de respect et de bienveillance.',
 		},
 		{
 			id: '4',
